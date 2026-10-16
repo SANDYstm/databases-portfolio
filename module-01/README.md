@@ -25,3 +25,4 @@ I plan to explore how databases such as SQLite and DuckDB work with Python, unde
 - [Module 01](https://github.com/iotempire/iotempire-teaching/blob/main/full-classes/hsbi-databases-10d/modules/01-introduction-and-local-first.md)
 - [Pod Mate's Portfolio]()
 
+### Team Contributions
