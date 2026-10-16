@@ -13,3 +13,15 @@
 6.Take a first LLM-generated query, run it, and begin the habit that defines this course: verify before you trust.
 
 I plan to explore how databases such as SQLite and DuckDB work with Python, understand the benefits of local-first data storage, and learn how to use AI-generated SQL queries safely by testing and verifying their results.
+
+
+
+## Task 2: Git and Markdown
+
+### Useful Links
+
+- [My GitHub Portfolio](https://github.com/SANDYstm/databases-portfolio)
+- [Course Syllabus](https://github.com/iotempire/iotempire-teaching/blob/main/full-classes/hsbi-databases-10d/SYLLABUS.md)
+- [Module 01](https://github.com/iotempire/iotempire-teaching/blob/main/full-classes/hsbi-databases-10d/modules/01-introduction-and-local-first.md)
+- [Pod Mate's Portfolio]()
+
