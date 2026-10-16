@@ -27,9 +27,20 @@ I plan to explore how databases such as SQLite and DuckDB work with Python, unde
 
 ### Team Contributions
 
-### What I Learned
+### Environment Verification
 
-- How to write Markdown headings and lists.
-- How to link GitHub repositories.
-- How to create small Git commits.
-- How to create Markdown links.
+I installed and configured Python using uv.
+
+- Python: 3.14.8
+- SQLite (Python): 3.53.1
+- DuckDB: 1.5.6
+- Datasette: 0.65.5
+- sqlite-utils: 4.2.1
+- Pydantic: 2.14.1
+- SQLAlchemy: 2.1.4
+
+### Verification Command
+
+`uv run python uv-check.py`
+
+All five required Python packages were found.
