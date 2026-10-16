@@ -26,3 +26,10 @@ I plan to explore how databases such as SQLite and DuckDB work with Python, unde
 - [Pod Mate's Portfolio]()
 
 ### Team Contributions
+
+### What I Learned
+
+- How to write Markdown headings and lists.
+- How to link GitHub repositories.
+- How to create small Git commits.
+- How to create Markdown links.
